@@ -1,0 +1,12 @@
+"DeliveryID";"DeliveryDate";"DeliveryStatus";"OrderID"
+1;"2022-11-22";"Complete";1
+2;"2022-11-24";"Complete";2
+3;"2022-11-30";"Complete";3
+4;"2022-12-07";"In Progress";4
+5;"2022-12-06";"In Progress";5
+6;"2022-12-12";"Complete";6
+7;"2022-12-15";"Cancelled";7
+8;"2022-12-17";"Cancelled";8
+9;"2022-12-22";"Complete";9
+10;"2022-12-24";"Complete";10
+11;"2022-12-27";"In Progress";11
